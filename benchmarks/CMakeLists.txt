@@ -1,0 +1,2 @@
+add_executable(benchmark_unique_pointer bench_unique_pointer.cpp)
+target_link_libraries(benchmark_unique_pointer PRIVATE simpleuniquepointer)

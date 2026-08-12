@@ -1,0 +1,9 @@
+build/
+*.o
+*.a
+*.so
+*.out
+*.swp
+.vscode/
+.idea/
+cmake-build-*/
